@@ -15,3 +15,5 @@ tested it out and also tried to make changes and delete the resource and show th
 
 ## What I learned
 I learned how tags and locks prevent deletion and also modification in resources. I also learnt how to apply my learning into practice. locks and tags.
+
+All the screenshots are included - step by step
