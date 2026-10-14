@@ -4,8 +4,10 @@
 In this project, I created a resource group, set up a storage account and turned on the static website hosting feature.
 
 ## Azure services used
-- Created a resource group
-- Created a storage account
+- Resource groups
+- Storage accounts
+- Static website hosting
+- $web container
 
 ## Steps completed
 1. I first created a resource group, after that i created a blob storage account. After that i made sure to enable static website hosting. Doing this created a special container named $web where i uploaded my static website page.
