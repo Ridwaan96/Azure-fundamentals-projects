@@ -18,4 +18,4 @@ deleting the resource deletes all the resources within the resource group. That'
 ## What I learned
 I learned how to create a resource group, a storage account within a resource group. How to enable static website hosting. By the end of it i now i have a public URL ready to serve web content even though I havent uploaded any files yet.
 
-All the screenshots are included
+All the screenshots are included - step by step
